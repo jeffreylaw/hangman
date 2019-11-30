@@ -1,0 +1,139 @@
+body {
+    font-family: 'Merriweather', serif;
+    background-image: url('../images/bg.gif');
+    color: white;
+}
+
+#header {
+    text-align: center;
+}
+
+/* tablet */
+@media only screen and (max-width:900px) and (min-width:500px) {
+    #letterButtons {
+        text-align: center;
+    }
+    
+    #letterButtons button {   
+        padding: 18px;
+        min-width: 90px;
+        margin: none;
+        background-color: white;
+        font-weight: bold;
+        font-size: 16px;
+    }
+    #gameArea {
+        text-align: center;
+        font-size: 30px;
+    }
+    #letterButtons button:hover {
+        border-style: outset;
+        border-width: 2px;
+        border-color: black;
+    }
+}
+
+/* desktop */
+@media only screen and (min-width:900px) {
+    #letterButtons {
+        text-align: center;
+    }
+    #letterButtons button {
+        padding: 20px;
+        min-width: 100px;
+        margin: none;
+        background-color: white;
+        font-weight: bold;
+        font-size: 20px;
+    }
+    #gameArea {
+        text-align: center;
+        font-size: 30px;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    #letterButtons button:hover {
+        border-style: outset;
+        border-width: 2px;
+        border-color: black;
+    }
+}
+
+/* mobile */
+@media only screen and (max-width:500px) and (min-width:350px) {
+    #header {
+        font-size: 12px;
+    }
+    #status {
+        font-size: 16px;
+    }
+    #definitionDisplay {
+        font-size: 16px;
+    }
+
+    #letterButtons {
+        text-align: center;
+    }
+    #letterButtons button {
+        padding: 16px;
+        min-width: 70px;
+        margin: none;
+        background-color: white;
+        font-weight: bold;
+        font-size: 12px;
+    }
+    #gameArea {
+        text-align: center;
+        font-size: 30px;
+    }
+}
+
+/* mobile smaller than width 350px */
+@media only screen and (max-width:350px) {
+    #wordDisplay {
+        font-size: 18px;
+    }
+    #header {
+        font-size: 12px;
+    }
+    #status {
+        font-size: 16px;
+    }
+    #definitionDisplay {
+        font-size: 14px;
+    }
+
+    #letterButtons {
+        text-align: center;
+    }
+    #letterButtons button {
+        padding: 16px;
+        min-width: 60px;
+        margin: none;
+        background-color: white;
+        font-weight: bold;
+        font-size: 12px;
+    }
+    #gameArea {
+        text-align: center;
+        font-size: 30px;
+    }
+}
+
+#wordDisplay {
+    letter-spacing: 8px;
+}
+
+
+/* Feel free to change all this table stuff */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+th {text-align: center;}

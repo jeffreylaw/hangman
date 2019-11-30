@@ -1,0 +1,106 @@
+[09-Nov-2019 05:09:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'jeffreyl_'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:09:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 11
+[09-Nov-2019 05:09:03 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 14
+[09-Nov-2019 05:09:03 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 29
+[09-Nov-2019 05:09:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'jeffreyl_'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:09:03 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 22
+[09-Nov-2019 05:09:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 29
+[09-Nov-2019 05:09:03 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 36
+[09-Nov-2019 05:09:13 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'jeffreyl_'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:09:13 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 11
+[09-Nov-2019 05:09:13 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 14
+[09-Nov-2019 05:09:13 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 29
+[09-Nov-2019 05:09:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'jeffreyl_'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:09:14 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 22
+[09-Nov-2019 05:09:14 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 29
+[09-Nov-2019 05:09:14 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 36
+[09-Nov-2019 05:09:14 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'jeffreyl_'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:09:14 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 11
+[09-Nov-2019 05:09:14 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 14
+[09-Nov-2019 05:09:14 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 29
+[09-Nov-2019 05:09:16 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'jeffreyl_'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:09:16 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 22
+[09-Nov-2019 05:09:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 29
+[09-Nov-2019 05:09:16 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 36
+[09-Nov-2019 05:09:17 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'jeffreyl_'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:09:17 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 11
+[09-Nov-2019 05:09:17 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 14
+[09-Nov-2019 05:09:17 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 29
+[09-Nov-2019 05:09:24 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'jeffreyl_'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:09:24 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 11
+[09-Nov-2019 05:09:24 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 14
+[09-Nov-2019 05:09:24 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 29
+[09-Nov-2019 05:09:25 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'jeffreyl_'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:09:25 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 22
+[09-Nov-2019 05:09:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 29
+[09-Nov-2019 05:09:25 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 36
+[09-Nov-2019 05:14:05 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'jeffreyl_'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:14:05 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 11
+[09-Nov-2019 05:14:05 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 14
+[09-Nov-2019 05:14:05 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 29
+[09-Nov-2019 05:14:06 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'jeffreyl_'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:14:06 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 22
+[09-Nov-2019 05:14:06 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 29
+[09-Nov-2019 05:14:06 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 36
+[09-Nov-2019 05:14:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:14:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 11
+[09-Nov-2019 05:14:38 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 14
+[09-Nov-2019 05:14:38 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 29
+[09-Nov-2019 05:14:39 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:14:39 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 22
+[09-Nov-2019 05:14:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 29
+[09-Nov-2019 05:14:39 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 36
+[09-Nov-2019 05:16:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:16:11 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 11
+[09-Nov-2019 05:16:11 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 14
+[09-Nov-2019 05:16:11 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 29
+[09-Nov-2019 05:16:43 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'admin'@'localhost' (using password: YES) in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:16:43 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 22
+[09-Nov-2019 05:16:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 29
+[09-Nov-2019 05:16:43 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 36
+[09-Nov-2019 05:19:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:19:54 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 11
+[09-Nov-2019 05:19:54 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 14
+[09-Nov-2019 05:19:54 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 29
+[09-Nov-2019 05:19:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:19:59 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 22
+[09-Nov-2019 05:19:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 29
+[09-Nov-2019 05:19:59 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 36
+[09-Nov-2019 05:24:07 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:24:07 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 11
+[09-Nov-2019 05:24:07 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 14
+[09-Nov-2019 05:24:07 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 29
+[09-Nov-2019 05:24:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:24:08 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 22
+[09-Nov-2019 05:24:08 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 29
+[09-Nov-2019 05:24:08 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 36
+[09-Nov-2019 05:25:27 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:25:27 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 11
+[09-Nov-2019 05:25:27 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 14
+[09-Nov-2019 05:25:27 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 29
+[09-Nov-2019 05:25:30 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:25:30 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 22
+[09-Nov-2019 05:25:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 29
+[09-Nov-2019 05:25:30 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 36
+[09-Nov-2019 05:25:38 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:25:38 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 11
+[09-Nov-2019 05:25:38 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 14
+[09-Nov-2019 05:25:38 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 29
+[09-Nov-2019 05:25:42 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:25:42 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 22
+[09-Nov-2019 05:25:42 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 29
+[09-Nov-2019 05:25:42 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 36
+[09-Nov-2019 05:25:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:25:51 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 11
+[09-Nov-2019 05:25:51 UTC] PHP Warning:  main(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/uploadscore.php on line 14
+[09-Nov-2019 05:25:51 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 29
+[09-Nov-2019 05:25:52 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:25:52 UTC] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 22
+[09-Nov-2019 05:25:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 29
+[09-Nov-2019 05:25:52 UTC] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/jeffreyl/public_html/Test/hangman/getscores.php on line 36
+[09-Nov-2019 05:27:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:27:56 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:30:48 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:30:54 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:31:01 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
+[09-Nov-2019 05:31:03 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1044): Access denied for user 'jeffreyl_admin'@'localhost' to database 'scoreboard' in /home/jeffreyl/public_html/Test/hangman/opendb.php on line 17
